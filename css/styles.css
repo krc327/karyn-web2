@@ -346,6 +346,21 @@ textarea {
 /* =============
     Footer
 ============= */
+footer {
+  background-color: #000;
+  padding-top: 45px;
+  text-align: center;
+  padding-bottom: 20px; }
+  footer i {
+    color: #ECECEC;
+    display: flex; }
+  footer p {
+    font-family: 'Comfortaa', cursive;
+    color: #fff;
+    font-size: 11px; }
+  footer span {
+    color: red; }
+
 #hero {
   background-image: url("../img/hero/hero.png");
   background-size: cover;
