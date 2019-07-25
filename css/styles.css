@@ -314,6 +314,11 @@ template {
 /* =============
     Typography
 ============= */
+body {
+  font-family: 'Lato', sans-serif;
+  font-family: 'Comfortaa', cursive;
+  font-family: 'Montserrat', sans-serif; }
+
 /* =============
     Buttons
 ============= */
@@ -341,3 +346,27 @@ textarea {
 /* =============
     Footer
 ============= */
+#hero {
+  background-image: url("../img/hero/hero.png");
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 180px;
+  padding-top: 79px;
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+  padding-left: 30px;
+  padding-right: 30px;
+  letter-spacing: 1px; }
+  #hero h1 {
+    color: #1A4B58;
+    font-size: 24px; }
+  #hero p {
+    color: #338595;
+    font-size: 14px;
+    padding-bottom: 165px; }
+  #hero h2 {
+    color: #fff;
+    font-size: 18.2px;
+    border: 2.8px solid #fff;
+    border-radius: 50px;
+    padding: 35px; }

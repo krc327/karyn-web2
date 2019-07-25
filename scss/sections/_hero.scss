@@ -1,0 +1,38 @@
+
+#hero{
+  background-image: url("../img/hero/hero.png");
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 180px;
+
+
+
+  padding-top: 79px;
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+  padding-left: 30px;
+  padding-right: 30px;
+  letter-spacing: 1px;
+
+  h1{
+    color: $darkBlue;
+    font-size: 24px;
+  }
+
+  p{
+    color: $lightBlue;
+    font-size: 14px;
+    padding-bottom: 165px;
+
+  }
+
+  h2{
+    color: $white;
+    font-size: 18.2px;
+    border: 2.8px solid $white;
+    border-radius: 50px;
+
+    padding:35px;
+
+  }
+}
