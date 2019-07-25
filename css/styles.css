@@ -370,3 +370,22 @@ textarea {
     border: 2.8px solid #fff;
     border-radius: 50px;
     padding: 35px; }
+
+#creative {
+  padding-top: 54px; }
+  #creative h3 {
+    font-size: 35px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding-bottom: 20px; }
+  #creative p {
+    font-size: 16px;
+    text-align: justify;
+    margin: 10px;
+    line-height: 21px;
+    letter-spacing: 1px; }
+  #creative p.two {
+    padding-bottom: 100px; }
+  #creative img {
+    width: 100%; }
