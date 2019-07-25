@@ -19,6 +19,61 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/img/creative/shoes.png": {
+		"ft": 32768,
+		"iS": 339585,
+		"oA": 0,
+		"oAP": "/img/creative/shoes.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/hero/hero.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "/img/hero/hero.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/journal/cards.png": {
+		"ft": 32768,
+		"iS": 332974,
+		"oA": 0,
+		"oAP": "/img/journal/cards.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/journal/rita.png": {
+		"ft": 32768,
+		"iS": 332362,
+		"oA": 0,
+		"oAP": "/img/journal/rita.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/journal/sign.png": {
+		"ft": 32768,
+		"iS": 313427,
+		"oA": 0,
+		"oAP": "/img/journal/sign.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
